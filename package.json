@@ -1,0 +1,27 @@
+{
+  "name": "lisa.unzip.js",
+  "version": "1.0.0",
+  "description": "light unzip uitls",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apporoad/LiSA.unzip.js.git"
+  },
+  "keywords": [
+    "light",
+    "tiny",
+    "unzip"
+  ],
+  "author": "apporoad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apporoad/LiSA.unzip.js/issues"
+  },
+  "homepage": "https://github.com/apporoad/LiSA.unzip.js#readme",
+  "dependencies": {
+    "yauzl": "^2.10.0"
+  }
+}
