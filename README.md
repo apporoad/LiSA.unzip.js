@@ -7,7 +7,7 @@ easy and light using for yauzl
 npm  i --save lisa.unzip.js
 ```
 ```js
-var unzipper = require('lisa.unzip.js')
+var unziper = require('lisa.unzip.js')
 unziper.unzip('test.zip', 'test2').then(()=>{
     console.log('hello good good day')
 })
